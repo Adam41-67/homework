@@ -1,0 +1,7 @@
+mark1 = float(input("Enter your first mark "))
+mark2 = float(input("Enter your second mark "))
+mark3 = float(input("Enter your third mark "))
+mark4 = float(input("Enter your fourth mark "))
+mark5 = float(input("Enter your fifth mark "))
+allmark = (mark1+mark2+mark3+mark4+mark5)
+print (allmark/5)
