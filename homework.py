@@ -1,3 +1,7 @@
+#author: adam belkacemi
+#date: 9/2/2025
+#description: program to request user name as input and return the same with greeting
+
 name = input ("Type your name ")
 print("Hello",name)
 surname = input ("Type your surname ")
@@ -22,4 +26,5 @@ minutes = 0
 print ("Days:",(24*days),"Seconds:",(seconds),"Minutes:",(minutes))
 kg = int(input("Enter a weight in kilograms "))
 print("Heres your weight in pounds ",kg*2.204)
+
        
