@@ -1,7 +1,12 @@
-mark1 = float(input("Enter your first mark "))
-mark2 = float(input("Enter your second mark "))
-mark3 = float(input("Enter your third mark "))
-mark4 = float(input("Enter your fourth mark "))
-mark5 = float(input("Enter your fifth mark "))
-allmark = (mark1+mark2+mark3+mark4+mark5)
-print (allmark/5)
+#Ask the user to enter a number under 20. If they enter a number that is 20 or more, display the message 'Too High'.
+#Otherwise, display the message 'Thank you,;
+#Adam Belkacemi
+#4/9/2025
+
+number = int(input('Enter a number below 20 '))
+
+if (number<20):
+    print("Thank you")
+    
+elif (number>20):
+    print("Too high")

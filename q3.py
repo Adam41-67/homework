@@ -1,8 +1,9 @@
-height = int(input("Whats your height in centimetres? "))
-feet = (height/2.54)
-inches = (feet/12)
-inches1 = feet % 12
-feet = int(feet)
-inches = int(inches)
-inches1 = int(inches1)
-print (inches,"feet",inches1,"inches")
+#ask the user to enter a number between 10 and 20 inclusive. If they enter a number in this range display
+#the message 'thank you'.. Otherwise, display the message 'thank you'.;
+#Adam Belkacemi
+#4/9/2025
+
+number = int(input('Ask me a number between 10 and 20 '))
+if (number <=20) and (number >=10):
+    print('Thank you')
+elif (number <10) or (number >20)
