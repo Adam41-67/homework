@@ -1,0 +1,14 @@
+All of the questions should be in seperate files labelled with the question and number. Please do this from now on and 
+fix the files you have done. This is for your own record to be able to look back on these when revising.
+
+-----------------------------------------
+Q6 you were asked to print hello <name> anad then the age they will be next year.
+
+-----------------------------------------
+Q8 is not finished you did not create the calculation for minutes and seconds. It is just set as 0
+
+-----------------------------------------
+Q9 wrapping the input in int means the user cant enter a bill with a decimal without getting an error.
+
+------------------------------------------
+page 174 Q6 Q7 Q8 Q9 Q10 Q11 missing from github please upload asap.

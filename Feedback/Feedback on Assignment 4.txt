@@ -1,0 +1,14 @@
+Well done on Q5 and Q6
+
+-------------------------------
+Q7 You’re on the right track by asking the user for numbers and trying to stop the loop when they type 'q'. 
+However, there are a few issues:
+The for iteration in (value) line doesn’t work because value is an integer, and you can’t loop over a number.
+You’re not keeping track of how many numbers are even or odd, so the program doesn’t answer the question.
+If the user types 'q' when asked for a number, the program tries to convert it to an integer and crashes.
+Some variables, like number and pie, aren’t used, and the loop is more complicated than it needs to be.
+To fix it, you’d need to check for 'q' before converting input to an integer, and use counters to count even 
+and odd numbers.
+
+-------------------------------
+Q1 Q2 Q3 Q4 Q8 missing from github please upload asap
